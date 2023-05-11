@@ -18,7 +18,7 @@ import {
   Typography,
 } from '@mui/material';
 import { ArrowForward } from '@mui/icons-material';
-import Link from 'next/Link';
+import Link from 'next/link';
 import Image from 'next/image';
 import imageDefault from '../../../public/logo/logo.png';
 import imageScroll from '../../../public/logo/logo-scroll.png';
