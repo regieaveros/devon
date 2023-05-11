@@ -1,6 +1,6 @@
 import { useRouter } from 'next/router';
 import Image from 'next/image';
-import Link from 'next/Link';
+import Link from 'next/link';
 import {
   Grid,
   Box,
