@@ -176,6 +176,7 @@ const Process = () => {
                       borderRadius: '1rem',
                       border: '2px solid #57575754',
                       p: '2rem',
+                      zIndex: 1,
                       '&:hover svg': {
                         color: '#0e7a6d',
                       },
