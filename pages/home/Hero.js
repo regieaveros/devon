@@ -61,7 +61,7 @@ const Hero = () => {
               <Typography component="p"
                 sx={{
                   fontFamily: "OpenSans",
-                  fontWeight: 400,
+                  fontWeight: 300,
                   color: '#fff',
                   fontSize: {
                     md: '1.25rem',
